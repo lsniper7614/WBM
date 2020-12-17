@@ -16,7 +16,7 @@ Welcome everyone to pay more attention to our research results.
 
 The WBM system model is shown in the figure below. The left side of the figure describes the structure of multiple nodes, and the right side of the figure describes the structure of the central access point (AP).
 
-![avatar](C:\Users\Lishuai\Desktop\新建文件夹\WBM-Model.png)
+![avatar](WBM-Model.png)
 
 ## Citing WBM
 
