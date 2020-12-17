@@ -20,7 +20,7 @@ The WBM system model is shown in the figure below. The left side of the figure d
 
 ## Citing WBM
 
-If you want to try your own research based on the WBM system, please cite our paper:
+If you want to try your own research based on the WBM system, please cite our papers:
 
 > [1] J. Chen, S. Li, J. Tao, S. Fu and G. E. Sobelman, "[Wireless Beam Modulation: An Energy- and Spectrum-Efficient Communication Technology for Future Massive IoT Systems](https://ieeexplore.ieee.org/document/9241886)," in IEEE Wireless Communications, vol. 27, no. 5, pp. 60-66, October 2020, doi: 10.1109/MWC.001.2000021.
 >
