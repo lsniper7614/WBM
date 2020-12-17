@@ -17,6 +17,7 @@ The WBM system model is shown in the figure below. The left side of the figure d
 
 ![avatar](WBM-Model.png)
 
+
 ## Citing WBM
 
 If you want to try your own research based on the WBM system, please cite our papers:
