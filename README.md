@@ -11,6 +11,7 @@ Different from the traditional communication system, the WBM system can finish t
 Welcome everyone to pay more attention to our research results.
 
 
+
 ## System Model
 
 The WBM system model is shown in the figure below. The left side of the figure describes the structure of multiple nodes, and the right side of the figure describes the structure of the central access point (AP).
