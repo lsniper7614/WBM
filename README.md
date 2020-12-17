@@ -2,9 +2,9 @@
 
 ## Overview
 
-The **Wireless Beam Modulation (WBM) ** system is the latest  result of our research. 
+The **Wireless Beam Modulation (WBM)** system is the latest  result of our research. 
 
-In the WBM system, we innovatively proposed the concept of **beam modulation over the air ** for the first time. And we realized the hardware of the WBM system and completed corresponding prototype verification. In addition, its single node transmission rate can support 200Mbps.
+In the WBM system, we innovatively proposed the concept of **beam modulation over the air** for the first time. And we realized the hardware of the WBM system and completed corresponding prototype verification. In addition, its single node transmission rate can support 200Mbps.
 
 Different from the traditional communication system, the WBM system can finish the modulation based on the characteristic of beamforming millimeter wave signals that will experience different attenuation when propagating along different paths in the channel. Therefore, the WBM system transmission equipment does not require a transmitting unit or radio frequency (RF) components. It is  a very simple, low-cost, energy-efficient and low-complexity new millimeter wave system. 
 
